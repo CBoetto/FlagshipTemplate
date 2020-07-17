@@ -789,7 +789,7 @@
     react-native-permissions "^1.1.1"
     url-parse "^1.4.3"
 
-"@brandingbrand/fsengagement@^~4.1.0":
+"@brandingbrand/fsengagement@~4.1.0":
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/@brandingbrand/fsengagement/-/fsengagement-4.1.0.tgz#b7ee2421a58e9034ad67d4ab88f2db00544c4860"
   integrity sha512-DDghpRsc1IkXpzSsNy3B2ntQZDWcy7GgrinwcfKGJG3+0ifI4ZnYy4soNZc7ro30MHhmGgsRzwlRFUYRKrypbg==
@@ -804,7 +804,7 @@
     react-native "0.59.10"
     react-native-device-info "^0.21.5"
     react-native-fcm "16.0.0"
-    react-native-navigation "https://github.com/brandingbrand/react-native-navigation#v1"
+    react-native-navigation "git+https://github.com/brandingbrand/react-native-navigation.git#v1"
     react-native-snap-carousel "^3.8.0"
     react-native-video "^3.2.1"
     uuid-js "0.7.5"
@@ -5092,9 +5092,9 @@ lodash.throttle@^4.1.1:
   integrity sha1-wj6RtxAkKscMN/HhzaknTMOb8vQ=
 
 lodash@4.x.x, "lodash@>=3.5 <5", lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.3, lodash@^4.17.5, lodash@^4.3.0, lodash@^4.6.1:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 log-symbols@^1.0.2:
   version "1.0.2"
