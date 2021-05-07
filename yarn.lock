@@ -789,7 +789,7 @@
     react-native-permissions "^1.1.1"
     url-parse "^1.4.3"
 
-"@brandingbrand/fsengagement@^~4.1.0":
+"@brandingbrand/fsengagement@~4.1.0":
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/@brandingbrand/fsengagement/-/fsengagement-4.1.0.tgz#b7ee2421a58e9034ad67d4ab88f2db00544c4860"
   integrity sha512-DDghpRsc1IkXpzSsNy3B2ntQZDWcy7GgrinwcfKGJG3+0ifI4ZnYy4soNZc7ro30MHhmGgsRzwlRFUYRKrypbg==
@@ -804,7 +804,7 @@
     react-native "0.59.10"
     react-native-device-info "^0.21.5"
     react-native-fcm "16.0.0"
-    react-native-navigation "https://github.com/brandingbrand/react-native-navigation#v1"
+    react-native-navigation "git+https://github.com/brandingbrand/react-native-navigation.git#v1"
     react-native-snap-carousel "^3.8.0"
     react-native-video "^3.2.1"
     uuid-js "0.7.5"
@@ -8679,9 +8679,9 @@ typescript@~3.0.1:
   integrity sha512-kk80vLW9iGtjMnIv11qyxLqZm20UklzuR2tL0QAnDIygIUIemcZMxlMWudl9OOt76H3ntVzcTiddQ1/pAAJMYg==
 
 ua-parser-js@^0.7.18:
-  version "0.7.20"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.20.tgz#7527178b82f6a62a0f243d1f94fd30e3e3c21098"
-  integrity sha512-8OaIKfzL5cpx8eCMAhhvTlft8GYF8b2eQr6JkCyVdrgjcytyOmPCXrqXFcUnhonRpLlh5yxEZVohm6mzaowUOw==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uglify-es@^3.1.9, uglify-es@^3.3.4, uglify-es@^3.3.9:
   version "3.3.9"
